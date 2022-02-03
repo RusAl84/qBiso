@@ -21,7 +21,7 @@
           flat
           dense
           round
-          icon="login"
+          icon="school"
           aria-label="Menu"
           @click="prompt = true"
         />
